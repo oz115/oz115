@@ -8,7 +8,7 @@
 
 
 <br>
-<h2 align="center">✨About Me</h2>
+<h3 align="center">✨About Me</h3>
 <div align="center">
 Hi, I'm YoungJu, a frontend developer. <br>
 I graduated from <b>KangwoonUniversity</b> <br>
@@ -22,7 +22,7 @@ I enjoy designing and implementing user-focused interfaces.<br>
 
 <br>
 <div align="center">
-<h2>👩‍💻 Tech Stack </h2>
+<h3>👩‍💻 Tech Stack </h3>
 <p>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -41,4 +41,19 @@ I enjoy designing and implementing user-focused interfaces.<br>
 </p>
 </div>
 
+<br>
+
+<!--  
+
+<h2>💻 Projects </h2>
+  
+| 프로젝트 기간 | 프로젝트 명 | 역할 |
+|-----------|--------------|------------------|
+| 2024.03~2024.06 | 졸업 시뮬레이션 프로그램<br>: 졸업 가능 여부 + 성적 계산기 / Chrome Extension 개발| 프로젝트 기획 및 사용자의 졸업 여부 확인 기능 개발 |
+| 2024.03~2024.08 | 학과 학생들을 위한 학생회 운영 웹 개발<br> : IoT 자물 연동 및 학사 내 필요 기능| 프로젝트 기획 및 프론트엔드 전면 개발 |
+| 2024.07~2024.11 | BAEMO-배드민턴의 모든 것<br>: 배드민턴 플랫폼 | 프론트: 실시간 채팅 & 내 프로필 |
+| 2023.09~2023.12 | 절약 소비 공유 SNS 개발 프로젝트<br>: 자신의 줄어든 소비를 자랑하는 SNS 개발  | 프로젝트 ui/ux 및 달력파트 개발 |
+*/
+
+-->
 
